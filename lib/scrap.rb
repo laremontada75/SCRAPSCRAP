@@ -1,6 +1,0 @@
-require 'rubocop', '~> 0.57.2'
-require 'rspec'
-require 'pry'
-require 'dotenv'
-require 'nokogiri'
-require 'open-uri'
